@@ -21,7 +21,7 @@ namespace VetApp.Areas.Identity
                     options.UseSqlServer(
                         context.Configuration.GetConnectionString("VetAppContextConnection")));
 
-                services.AddDefaultIdentity<VetAppUser>(options => options.SignIn.RequireConfirmedAccount = true)
+                services.AddDefaultIdentity<VetAppUser>(options => options.SignIn.RequireConfirmedAccount = false)
                     .AddEntityFrameworkStores<VetAppContext>();
             });
         }

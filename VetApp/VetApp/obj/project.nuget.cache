@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cvg2dmFKy6lSG4hst+LO0JKACx0q7IDvzpoCLqczdgOvACEfrCJt6vK9eI2RODk4HKvRYH/EQPz9lpsb0jUCZw==",
+  "dgSpecHash": "6+ms0oRG8bkW2CZrQx4hrqgFMF2F3fipo74onTlenVjhihoekh2pkAFIejp/MAhDCEW7D52YUe/RvoxjN2NWmg==",
   "success": true,
   "projectFilePath": "D:\\Programming Projects\\Stable projects\\VeterinaryApp\\VetApp\\VetApp\\VetApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\hakerys\\.nuget\\packages\\jetbrains.annotations\\2020.1.0\\jetbrains.annotations.2020.1.0.nupkg.sha512",
     "C:\\Users\\hakerys\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.7\\microsoft.aspnetcore.cryptography.internal.3.1.7.nupkg.sha512",
     "C:\\Users\\hakerys\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.7\\microsoft.aspnetcore.cryptography.keyderivation.3.1.7.nupkg.sha512",
     "C:\\Users\\hakerys\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
@@ -50,6 +51,7 @@
     "C:\\Users\\hakerys\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.5.0\\microsoft.identitymodel.protocols.5.5.0.nupkg.sha512",
     "C:\\Users\\hakerys\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.5.0\\microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
     "C:\\Users\\hakerys\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
+    "C:\\Users\\hakerys\\.nuget\\packages\\microsoft.net.compilers\\3.7.0\\microsoft.net.compilers.3.7.0.nupkg.sha512",
     "C:\\Users\\hakerys\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\hakerys\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\hakerys\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\3.1.4\\microsoft.visualstudio.web.codegeneration.3.1.4.nupkg.sha512",
