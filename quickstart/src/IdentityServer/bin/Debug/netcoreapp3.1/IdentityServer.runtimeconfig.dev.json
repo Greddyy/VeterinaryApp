@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\hakerys\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\hakerys\\.nuget\\packages"
-    ]
-  }
-}
